@@ -7,7 +7,7 @@
     <name>mytext</name>
     <groupId>io.github.revfactory</groupId>
     <artifactId>mytext</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
     <description>String Utility</description>
     <url>https://github.com/revfactory/mytext</url>
     <scm>
