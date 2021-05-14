@@ -14,6 +14,25 @@
         <url>https://github.com/revfactory/mytext</url>
     </scm>
 
+    <developers>
+        <developer>
+            <id>revfactory</id>
+            <name>revfactory</name>
+            <email>revfactory@gmail.com</email>
+            <url>https://github.com/revfactory/mytext</url>
+            <organization>ACME</organization>
+            <organizationUrl>http://www.example.com</organizationUrl>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>America/New_York</timezone>
+            <properties>
+                <picUrl>http://www.example.com/jdoe/pic</picUrl>
+            </properties>
+        </developer>
+    </developers>
+
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
